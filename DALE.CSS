@@ -1,0 +1,134 @@
+
+.container1 {
+    display: flex;
+    justify-content:center;
+    margin-top: 4px;
+    align-items: flex-start;
+    
+}
+
+.logo {
+align-items: flex-start;
+ border: solid aquamarine;
+    color: black;
+    background-color:cadetblue;
+    padding: 5px;
+    justify-content:space-around;
+    flex-flow: row;
+    
+}
+.Menu1 {
+    background-color: chartreuse;
+    width: 40%;
+    border: solid green;
+    color: black;
+    justify-content:last baseline
+    elemento 
+   }
+
+.Menu2 {
+background-color: coral;
+    width: 70%;
+    border: solid orangered;
+    color: black;
+    justify-content: flex-end;
+    
+}
+.container2 {
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 5px;
+}
+.izquierda{
+    background-color: burlywood;
+ color: black;
+    padding:  5px;
+    width: 30%;
+    height: 190px;
+    border-radius: 4px;
+    border: solid grey;
+    
+
+}
+
+.centro {
+    background-color: cornflowerblue;
+    color: black;
+    padding: 5px;
+    width: 30%;
+    border-radius: 4px;
+    border: solid blue;
+    
+}
+
+.derecha {
+   background-color: darkgoldenrod;
+    color: black;
+    padding: 5px;
+    width: 30%;
+    border-radius: 4px;
+    border: solid orange;
+    
+}
+
+.container3 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.izquierda2 {
+    background-color: lawngreen;
+    width: 65%;
+    color: black;
+    padding-top: 4px;
+    height: 150px;
+    border-radius: 4px;
+    border: solid green;
+   
+ }
+    
+.derecha2 {
+        background-color: chocolate;
+    width: 30%;
+ 
+    color: black;
+    padding-top: 4px;
+    border-radius: 4px;
+    border: solid brown;
+     padding: 5px;
+     justify-content:right;
+
+
+    
+    }
+.container4 {
+        display: flex;
+        justify-content: space-between;
+        border-radius: 4px;
+        border: solid cyan;
+        height: 70px;
+        margin-top: 6px;
+    
+    }
+.Pie {
+        display: flex;
+        justify-content: space-between;
+        padding-left: 8px;
+    }
+    
+    
+.Elemento {
+   background-color: blue;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    height: 20px;
+    border-radius: 4px;
+    border: solid lightseagreen;
+    color: black;
+    margin-top: 30px;
+    margin-right: 17px;
+    }
